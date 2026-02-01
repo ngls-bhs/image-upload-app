@@ -25,4 +25,4 @@ It is ideal for:
 
 ## Screenshot
 
-![Image Upload Screenshot](https://image-upload.app/og.png)
+![Image Upload Screenshot](https://r2.image-upload.app/uploads/permanent/1769930951370-t7g051f3kyb.png)
