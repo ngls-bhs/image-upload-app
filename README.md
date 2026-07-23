@@ -3,7 +3,7 @@
 Image Upload is a free, fast, and lightweight web-based image upload and hosting tool.  
 It allows users to upload images instantly, without registration, and get shareable links in seconds.
 
-👉 Website: https://image-upload.app
+👉 Website: https://imagetourls.com
 
 This project is open-source and the source code is available on GitHub.
 
@@ -56,7 +56,7 @@ No accounts. No friction.
 
 ## Screenshot
 
-![Image Upload Screenshot](https://r2.image-upload.app/uploads/permanent/1769930951370-t7g051f3kyb.png)
+![Image Upload Screenshot](https://r2.imagetourls.com/tyImg/KvmGIgRp.png)
 
 ---
 
